@@ -108,7 +108,7 @@ public class Employee {
         return delete_flag;
     }
 
-    public void setDeleteflag(Integer deleteflag) {
+    public void setDeleteflag(Integer delete_flag) {
         this.delete_flag = delete_flag;
     }
 }
